@@ -8,3 +8,5 @@ declare module "@fastify/jwt" {
     };
   }
 }
+
+//types
